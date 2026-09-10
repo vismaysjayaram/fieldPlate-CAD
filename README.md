@@ -1,5 +1,5 @@
 # FieldPlate
-
+[![FieldPlate](IMG_5442.jpg)](https://www.printables.com/model/1815820-fieldplate-a-tripod-attachment-for-your-printer-pl)
 **FieldPlate** is a simple tripod attachment for reusing 3D printer build plates as portable tables.
 
 More information and the models can be found on **Printables**:
