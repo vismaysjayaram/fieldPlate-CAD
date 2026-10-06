@@ -11,7 +11,7 @@ FieldPlate started as a simple idea: take a 3D printer build plate and turn it i
 
 It is designed to be **simple to print, quick to build, and easy to take apart**. The build plate can be detached from the tripod when you need it for printing, then reattached when you want a portable table.
 
-## What you need
+## What you need/ B.O.M
 To get started, you will need:
 * 1× compatible PEI build plate
 * 12× 11 × 3 mm magnets
