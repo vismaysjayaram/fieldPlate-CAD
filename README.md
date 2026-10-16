@@ -42,9 +42,13 @@ Magnets hold the build plate in place, while four screw-mounted arms connect the
 
 The result is a lightweight, removable table that lets you reuse a build plate outside of your 3D printer.
 
+## Cad Model!
+<img width="780" height="523" alt="image" src="https://github.com/user-attachments/assets/3663e0ff-64b2-4d3d-a116-00d48b219ab5" />
+
+
 ## Credits
 
-**Designed by:** Ideaman27
+*Designed by:* Me!
 
 **Models and project:** FieldPlate
 
